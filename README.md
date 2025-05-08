@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./media/photos/screenshot.png" alt="preview" height="450" />
+  <img src="./media/photos/screenshot.png" alt="preview" />
   <br/>
   
   <p align="center">
